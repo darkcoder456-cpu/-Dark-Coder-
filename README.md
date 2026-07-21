@@ -1,2 +1,3 @@
-# -Dark-Coder-
-welcome to Dark-Coder Website  resipotory! this projects  is a modern restponsive  website built  using  HTML, CSS, and Java Script.  it features is a clean design. 
+Dark-Coder Website
+
+Welcome to the Dark-Coder Website repository! This project is a modern, responsive website built using HTML, CSS, and JavaScript. It features a clean design, smooth animations, and an easy-to-use interface suitable for learning web development or creating a personal portfolio. The code is organized, lightweight, and beginner-friendly, making it simple to customize and expand with new features. Feel free to explore, modify, and contribute to improve the project. If you find this repository useful, please consider giving it a star and sharing it with others. Thank you for visiting, and happy coding!
